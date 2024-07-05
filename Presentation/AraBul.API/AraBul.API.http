@@ -1,0 +1,6 @@
+@AraBul.API_HostAddress = http://localhost:5276
+
+GET {{AraBul.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
